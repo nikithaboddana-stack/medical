@@ -1,0 +1,6 @@
+{
+  "name": "MedRecord & Patient Management System",
+  "description": "Lab exercise implementation of Patient Management and Medical Record Management systems with roll-number authentication, relational CRUD operations, session management, and Java Servlet/JSP code view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
